@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Olá, eu me chamo Anderson 👋
+- 🌱 Estou aprendendo Kotlin 
+- ✨ Meu objetivo é me tornar um grande desenvolvedor backend focado no Android nativo.
+- 📫 Para me contactar basta mandar um e-mail.
+  - anderson17001@gmail.com
 <!--
 **AndersonAlves210/AndersonAlves210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
